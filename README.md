@@ -1,2 +1,2 @@
 # IWDT_DRIVER
-Here is an implementation for the driver of the internal watchdog timer of TMS320F28388D. THIS DRIVER IS FOR THE INTERNAL WATCHDOG TIMER ONLY AND DOESN'T CONTAIN ANY OTHER LAYERS. FOR APPLICATION USE IT MUST BE INTEGRATED WITH ANOTHER DRIVER OR LAYER. 
+Independent Watchdog Timer (IWDT) driver for the TI TMS320F28388D microcontroller. Supports reset mode, interrupt mode, configurable prescalers, and windowed watchdog operation.
